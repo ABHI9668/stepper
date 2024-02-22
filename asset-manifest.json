@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stepper/static/css/main.4fee968a.css",
+    "main.js": "/stepper/static/js/main.c5e4c155.js",
+    "static/js/453.5dd0f09f.chunk.js": "/stepper/static/js/453.5dd0f09f.chunk.js",
+    "static/media/logo.svg": "/stepper/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/stepper/index.html",
+    "main.4fee968a.css.map": "/stepper/static/css/main.4fee968a.css.map",
+    "main.c5e4c155.js.map": "/stepper/static/js/main.c5e4c155.js.map",
+    "453.5dd0f09f.chunk.js.map": "/stepper/static/js/453.5dd0f09f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fee968a.css",
+    "static/js/main.c5e4c155.js"
+  ]
+}
